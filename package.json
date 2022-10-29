@@ -1,0 +1,23 @@
+{
+  "name": "backend_libraryapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamodit/Backend_libraryApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamodit/Backend_libraryApi/issues"
+  },
+  "homepage": "https://github.com/chamodit/Backend_libraryApi#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0"
+  }
+}
