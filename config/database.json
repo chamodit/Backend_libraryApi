@@ -1,0 +1,5 @@
+{
+  "password": "password@123",
+  "url": "mongodb+srv://username:<password>@library-api.cctrtz5.mongodb.net/?retryWrites=true&w=majority",
+  "host": "library-api.cctrtz5.mongodb.net"
+}
